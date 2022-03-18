@@ -1,3 +1,4 @@
+package main.Utils;
 
 
 import java.io.BufferedReader;
@@ -10,6 +11,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+import main.Entitities.Movie;
+import main.QuickSort;
 
 
 /**
@@ -91,7 +94,7 @@ public class CSVMovieManager {
     }
 
     public void testQuicksort() throws Exception{
-        Quicksort q = new Quicksort();
+        QuickSort q = new QuickSort();
             int lenght = movies.length;
             System.out.println("Length : " + lenght);
 

@@ -1,3 +1,5 @@
+package main.Entitities;
+
 /** 
  * Class to store the movie
  * 
