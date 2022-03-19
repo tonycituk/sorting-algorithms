@@ -1,6 +1,6 @@
 package main;
 
-import main.Entitities.Movie;
+import main.Entities.Movie;
 
 public class QuickSort {
     
@@ -8,7 +8,7 @@ public class QuickSort {
     private static int intercambios = 0;
     private static int comparaciones = 0;
 
-    public void quicksort(Movie[] array, int start, int end, String param, String cond){
+    public static void quicksort(Movie[] array, int start, int end, String param, String cond){
         
         QuickSort.llamadas++;
 
@@ -265,23 +265,41 @@ public class QuickSort {
         } 
     } 
 
-    public void resetMetricas(){
+    public static void resetMetricas(){
         QuickSort.llamadas = 0;
         QuickSort.intercambios = 0;
         QuickSort.comparaciones = 0 ;
     }
 
-    public void printMetricas(){
-        String metricas = ("\n Número de llamadas al método : " + QuickSort.llamadas
-        + "\n Número de intercambios : " + QuickSort.intercambios + "\n Número de comparaciones : " + QuickSort.comparaciones);
 
-        System.out.println(metricas);
-
+    public static int getLlamadas() {
+        return llamadas;
     }
 
-    public String getMetricas(){
-        String metricas = ("\n Número de llamadas al método : " + QuickSort.llamadas
-        + "\n Número de intercambios : " + QuickSort.intercambios + "\n Número de comparaciones : " + QuickSort.comparaciones);
-        return metricas;   
+
+    public static void setLlamadas(int llamadas) {
+        QuickSort.llamadas = llamadas;
     }
+
+
+    public static int getIntercambios() {
+        return intercambios;
+    }
+
+
+    public static void setIntercambios(int intercambios) {
+        QuickSort.intercambios = intercambios;
+    }
+
+
+    public static int getComparaciones() {
+        return comparaciones;
+    }
+
+
+    public static void setComparaciones(int comparaciones) {
+        QuickSort.comparaciones = comparaciones;
+    }
+
+   
 }

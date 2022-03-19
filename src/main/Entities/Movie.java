@@ -1,4 +1,4 @@
-package main.Entitities;
+package main.Entities;
 
 /** 
  * Class to store the movie

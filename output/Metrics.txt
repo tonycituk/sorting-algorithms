@@ -1,0 +1,84 @@
+
+Report QuickSort : Duración menor a mayor
+Calls: 67
+Comparisons: 759
+Swaps: 376
+Time: 711896ns. 
+
+
+Report QuickSort : Duración mayor a menor
+Calls: 83
+Comparisons: 3955
+Swaps: 1926
+Time: 456695ns. 
+
+
+Report QuickSort : Presupuesto menor a mayor
+Calls: 82
+Comparisons: 1051
+Swaps: 331
+Time: 302624ns. 
+
+
+Report QuickSort : Presupuesto mayor a menor
+Calls: 85
+Comparisons: 2647
+Swaps: 1129
+Time: 295360ns. 
+
+
+Report QuickSort : Rate menor a mayor
+Calls: 76
+Comparisons: 798
+Swaps: 257
+Time: 127810ns. 
+
+
+Report QuickSort : Rate mayor a menor
+Calls: 84
+Comparisons: 3127
+Swaps: 1469
+Time: 355145ns. 
+
+
+Report QuickSort : Título menor a mayor
+Calls: 99
+Comparisons: 948
+Swaps: 176
+Time: 1699807ns. 
+
+
+Report QuickSort : Título mayor a menor
+Calls: 99
+Comparisons: 741
+Swaps: 99
+Time: 1997822ns. 
+
+
+Report RadixSort : Id menor a mayor
+Calls: 1
+Comparisons: 0
+Swaps: 300
+Time: 975689ns. 
+
+
+Report RadixSort : Budget menor a mayor
+Calls: 1
+Comparisons: 0
+Swaps: 1200
+Time: 2810992471ns. 
+
+
+Report RadixSort : Duration menor a mayor
+Calls: 1
+Comparisons: 0
+Swaps: 1500
+Time: 729357ns. 
+
+
+Report InsertionSort : Title menor a mayor
+Calls: 1
+Comparisons: 99
+Swaps: 2417
+Time: 1572626ns. 
+

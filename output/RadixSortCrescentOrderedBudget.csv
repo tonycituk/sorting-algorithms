@@ -1,0 +1,101 @@
+movie_id,movie_title,movie_duration,movie_budget,movie_rate
+101,The Fast and the Furious ,106,38000000,6.7
+51,The Great Gatsby,143,105000000,7.3
+60,Rush Hour 3,91,140000000,6.2
+70,Iron Man,126,140000000,7.9
+73,The Mummy: Tomb of the Dragon Emperor,112,145000000,5.2
+30,Jurassic World,124,150000000,7.0
+102,The Curious Case of Benjamin Button ,166,150000000,7.8
+98,Inception,148,160000000,8.8
+103,X-Men: First Class ,132,160000000,7.8
+104,The Hunger Games: Mockingjay - Part 2 ,137,160000000,6.6
+88,Shrek Forever After,93,165000000,6.4
+90,Big Hero 6,102,165000000,7.9
+91,Wreck-It Ralph,101,165000000,7.8
+92,The Polar Express,100,165000000,6.6
+93,Independence Day: Resurgence,120,165000000,5.5
+94,How to Train Your Dragon,98,165000000,8.2
+97,Interstellar,169,165000000,8.6
+41,TRON: Legacy,125,170000000,6.8
+71,Hugo,126,170000000,7.5
+72,Wild Wild West,106,170000000,4.8
+82,Snow White and the Huntsman,132,170000000,6.1
+84,Dawn of the Planet of the Apes,130,170000000,7.6
+87,Captain America: The Winter Soldier,136,170000000,7.8
+96,Guardians of the Galaxy,121,170000000,8.1
+68,Up,96,175000000,8.3
+69,Monsters vs. Aliens,94,175000000,6.5
+74,Suicide Squad,123,175000000,6.9
+75,Evan Almighty,96,175000000,5.4
+77,Waterworld,176,175000000,6.1
+78,G.I. Joe: The Rise of Cobra,118,175000000,5.8
+79,Inside Out,95,175000000,8.3
+80,The Jungle Book,106,175000000,7.8
+86,47 Ronin,128,175000000,6.3
+63,Jupiter Ascending,127,176000000,5.4
+66,X-Men: Apocalypse,144,178000000,7.3
+76,Edge of Tomorrow,113,178000000,7.9
+25,The Golden Compass,113,180000000,6.1
+59,WALL·E,98,180000000,8.4
+64,The Legend of Tarzan,110,180000000,6.6
+65,The Chronicles of Narnia: The Lion: the Witch and the Wardrobe,150,180000000,6.9
+83,Maleficent,97,180000000,7.0
+100,The Hobbit: An Unexpected Journey,182,180000000,7.9
+55,Indiana Jones and the Kingdom of the Crystal Skull,122,185000000,6.2
+57,Brave,93,185000000,7.2
+58,Star Trek Beyond,122,185000000,7.5
+67,The Dark Knight,152,185000000,9.0
+46,Furious 7,140,190000000,7.2
+47,World War Z,123,190000000,7.0
+49,Star Trek Into Darkness,132,190000000,7.8
+53,Pacific Rim,131,190000000,7.0
+89,Tomorrowland,130,190000000,6.5
+50,Jack the Giant Slayer,114,195000000,6.3
+54,Transformers: Dark of the Moon,154,195000000,6.3
+13,Quantum of Solace,106,200000000,6.7
+23,Robin Hood,156,200000000,6.7
+27,Titanic,194,200000000,7.7
+31,Skyfall,143,200000000,7.8
+32,Spider-Man 2,135,200000000,7.3
+33,Iron Man 3,195,200000000,7.2
+34,Alice in Wonderland,108,200000000,6.5
+36,Monsters University,104,200000000,7.3
+37,Transformers: Revenge of the Fallen,150,200000000,6.0
+40,The Amazing Spider-Man 2,142,200000000,6.7
+42,Cars 2,106,200000000,6.3
+43,Green Lantern,123,200000000,5.6
+44,Toy Story 3,103,200000000,8.3
+45,Terminator Salvation,118,200000000,6.6
+48,X-Men: Days of Future Past,149,200000000,8.0
+52,Prince of Persia: The Sands of Time,116,200000000,6.6
+61,2012,158,200000000,5.8
+62,A Christmas Carol,96,200000000,6.8
+81,Iron Man 2,124,200000000,7.0
+95,Terminator 3: Rise of the Machines,109,200000000,6.4
+26,King Kong,201,207000000,7.2
+12,Superman Returns,169,209000000,6.1
+29,Battleship,131,209000000,5.9
+35,X-Men: The Last Stand,104,210000000,6.8
+38,Transformers: Age of Extinction,165,210000000,5.7
+15,The Lone Ranger,150,215000000,6.5
+39,Oz the Great and Powerful,130,215000000,6.4
+18,The Avengers,173,220000000,8.1
+14,Pirates of the Caribbean: Dead Man's Chest,151,225000000,7.3
+16,Man of Steel,143,225000000,7.2
+17,The Chronicles of Narnia: Prince Caspian,150,225000000,6.6
+20,Men in Black 3,106,225000000,6.8
+24,The Hobbit: The Desolation of Smaug,186,225000000,7.9
+22,The Amazing Spider-Man,153,230000000,7.0
+1,Avatar,178,237000000,7.9
+3,Spectre,148,245000000,6.8
+4,The Dark Knight Rises,164,250000000,8.5
+9,Avengers: Age of Ultron,141,250000000,7.5
+10,Harry Potter and the Half-Blood Prince,153,250000000,7.5
+11,Batman v Superman: Dawn of Justice,183,250000000,6.9
+19,Pirates of the Caribbean: On Stranger Tides,136,250000000,6.7
+21,The Hobbit: The Battle of the Five Armies,164,250000000,7.5
+28,Captain America: Civil War,147,250000000,8.2
+7,Spider-Man 3,156,258000000,6.2
+8,Tangled,100,260000000,7.8
+6,John Carter,132,263700000,6.6
+2,Pirates of the Caribbean: At World's End,169,300000000,7.1
